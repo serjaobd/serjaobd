@@ -9,6 +9,9 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="arduino logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
