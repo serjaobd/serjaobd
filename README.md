@@ -1,11 +1,10 @@
 <!--
 
-- 🔭 I’m currently working on GTI UFAL 
-- 🌱 I’m currently learning análise de dados 
+- 🔭 Sou um estudante de ciẽncia da computação pela UFAL, me interessei por tecnologia assim que entrei no curso técnico em informática pelo IFAL, foi a minha primeira oportunidade de desenvolver programas visando solucionar problemas e onde comecei a usar ferramentas que utilizo até hoje, como o Python. 
+- 🌱 Atualmente estou interessado e buscando aprender mais sobre análise de dados. 
 
 -->
-<h1 align="center">Olá, mundo!</h1>
-
+<h1 align="center">Hello, world!</h1
 ###
 
 <div align="center">
