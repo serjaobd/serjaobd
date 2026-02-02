@@ -1,12 +1,11 @@
 <!--
 
-- 🔭 Sou um estudante de ciẽncia da computação pela UFAL, me interessei por tecnologia assim que entrei no curso técnico em informática pelo IFAL, foi a minha primeira oportunidade de desenvolver programas visando solucionar problemas e onde comecei a usar ferramentas que utilizo até hoje, como o Python. 
+ Sou um estudante de ciẽncia da computação pela UFAL, me interessei por tecnologia assim que entrei no curso técnico em informática pelo IFAL, foi a minha primeira oportunidade de desenvolver programas visando solucionar problemas e onde comecei a usar ferramentas que utilizo até hoje, como o Python. 
 - 🌱 Atualmente estou interessado e buscando aprender mais sobre análise de dados. 
 
 -->
 <h1 align="center">Hello, world!</h1>
-###
-
+<h2> Sou um estudante de ciẽncia da computação pela UFAL, me interessei por tecnologia assim que entrei no curso técnico em informática pelo IFAL, foi a minha primeira oportunidade de desenvolver programas visando solucionar problemas e onde comecei a usar ferramentas que utilizo até hoje, como o Python. </h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
