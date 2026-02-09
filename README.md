@@ -2,7 +2,7 @@ Computer Science Student | Computer Technician
 
 Atualmente estudo `Java`, `Pandas` e `SQL`.
 
-Tenho interesse em análise de dados e cloud. 
+Tenho interesse em `análise de dados`, `Node.js` e aprofundar os meus conhecimentos em `Python`. 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
