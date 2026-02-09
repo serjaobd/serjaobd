@@ -17,6 +17,7 @@ Tenho interesse em `análise de dados`, `Node.js` e aprofundar os meus conhecime
   <img width="12" />
 </div>
 
+## Contato 
 ###
 
 <div align="center">
@@ -25,11 +26,6 @@ Tenho interesse em `análise de dados`, `Node.js` e aprofundar os meus conhecime
   </a> 
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serjaobd/serjaobd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serjaobd/serjaobd/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
