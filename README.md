@@ -1,3 +1,5 @@
+# $\textcolor{lightred}{\textsf{Sobre mim}}$
+
 Computer Science Student | Computer Technician
 
 Atualmente estudo `Java`, `Pandas` e `SQL`.
