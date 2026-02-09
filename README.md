@@ -1,10 +1,5 @@
-<!--
+Computer Science Student | Computer Technician
 
- Sou um estudante de ciẽncia da computação pela UFAL, me interessei por tecnologia assim que entrei no curso técnico em informática pelo IFAL, foi a minha primeira oportunidade de desenvolver programas visando solucionar problemas e onde comecei a usar ferramentas que utilizo até hoje, como o Python. 
-- 🌱 Atualmente estou interessado e buscando aprender mais sobre análise de dados. 
-
--->
-<h1 align="center">Hello, world!</h1>
 <text> Sou um estudante de ciẽncia da computação pela UFAL, me interessei por tecnologia assim que entrei no curso técnico em informática pelo IFAL, foi a minha primeira oportunidade de desenvolver programas visando solucionar problemas e onde comecei a usar ferramentas que utilizo até hoje, como o Python. </text>
 
 <div align="center">
