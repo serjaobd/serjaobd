@@ -1,4 +1,4 @@
-# $\textcolor{lightred}{\textsf{Sobre mim}}$
+# $\textcolor{red}{\textsf{Sobre mim}}$
 
 Computer Science Student | Computer Technician
 
