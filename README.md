@@ -1,7 +1,5 @@
 Computer Science Student | Computer Technician
 
-<text> Sou um estudante de ciẽncia da computação pela UFAL, me interessei por tecnologia assim que entrei no curso técnico em informática pelo IFAL, foi a minha primeira oportunidade de desenvolver programas visando solucionar problemas e onde comecei a usar ferramentas que utilizo até hoje, como o Python. </text>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
