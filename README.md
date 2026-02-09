@@ -1,5 +1,9 @@
 Computer Science Student | Computer Technician
 
+Atualmente estudo Java, Pandas e SQL.
+
+Tenho interesse em análise de dados e cloud. 
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
