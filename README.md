@@ -1,6 +1,6 @@
 # $\textcolor{blue}{\textsf{Sobre mim}}$
 
-Computer Science Student | Computer Technician
+Estudante de Ciẽncia Da Computação | Técnico em Informática 
 
 Atualmente estudando `Java`, `Pandas` e `SQL`.
 
