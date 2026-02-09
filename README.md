@@ -1,6 +1,6 @@
 Computer Science Student | Computer Technician
 
-Atualmente estudo `Java, Pandas e SQL.
+Atualmente estudo `Java`, `Pandas` e `SQL`.
 
 Tenho interesse em análise de dados e cloud. 
 
