@@ -1,8 +1,8 @@
-# $\textcolor{red}{\textsf{Sobre mim}}$
+# $\textcolor{blue}{\textsf{Sobre mim}}$
 
 Computer Science Student | Computer Technician
 
-Atualmente estudo `Java`, `Pandas` e `SQL`.
+Atualmente estudando `Java`, `Pandas` e `SQL`.
 
 Tenho interesse em `análise de dados`, `Node.js` e aprofundar os meus conhecimentos em `Python`. 
 
