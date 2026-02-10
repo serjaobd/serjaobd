@@ -4,7 +4,7 @@ Estudante de Ciẽncia Da Computação | Técnico em Informática
 
 Atualmente estudando `Java`, `Pandas` e `SQL`.
 
-Tenho interesse em `análise de dados`, `Node.js` e aprofundar os meus conhecimentos em `Python`. 
+Tenho interesse em `Power BI`, `Node.js` e aprofundar os meus conhecimentos em `Python`. 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
